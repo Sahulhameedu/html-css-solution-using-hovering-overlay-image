@@ -55,7 +55,7 @@ h5{
 .figure:hover img.viewhover{
     opacity: 1;
     background-color:  hsla(178, 100%, 50%,70%);
-    
+    cursor:pointer;
 }
 .imageethereum{
     width: 360px;
